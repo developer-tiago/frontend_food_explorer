@@ -51,10 +51,10 @@ Senha: `tiago123`
 
 Deploy BACKEND feito no Render.
 
-Backend : (https://food-explorer-mrtiago.onrender.com)
+Backend : (https://backend-food-explorer.onrender.com)
 
 Deploy FRONTEND feito no Netlify. 
 
-Frontend : (https://rocketfoodproject.netlify.app/)
+Frontend : (https://foodexplorerproject.netlify.app/)
 
 
