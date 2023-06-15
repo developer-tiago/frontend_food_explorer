@@ -43,9 +43,9 @@ http://localhost:5173/
 
 ## Vamos ver a aplicação no lado do Administrador ?!
 
-E-mail: `mrtiago@outlook.com`
+E-mail: `admin@foodexplorer.com`
 
-Senha: `tiago123`
+Senha: `123456`
 
 ### Informações adicionais da aplicação
 
